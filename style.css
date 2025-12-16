@@ -1,0 +1,74 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-family: "Lobster Two", sans-serif;
+    
+    font-size: 2rem;
+    color: black;
+}
+.navbar-brand:hover{
+    color:black;
+}
+.nav-link{
+    font-family: "Rubik", sans-serif;
+    margin-right: 40px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: black;
+}
+.search{
+    height:40px;
+    width:80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid rgb(19, 0, 6);
+}
+.btn1{
+    height: 40px;
+    width:40%;
+    outline:none;
+    border:none;
+    border-radius: 60px ;
+    background-color: rgb(19, 0, 6);
+    color: white; 
+    font-weight: 700;
+}
+.btn1:hover{
+    background-color: red;
+}
+.main{
+    background: url(3710266.jpg) no-repeat;
+    background-size: cover;
+    height:100vh;
+    width:100%;
+    background-position: 50% 50%;
+
+}
+.main h1{
+font-size: 4rem;
+font-weight: 700;
+color: white;
+}
+.btn2{ height: 45px;
+    width:35%;
+    border: none;
+    outline:none;
+    background-color: rgb(19, 0, 6);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+
+}
+.btn2:hover{
+    background-color: red;
+}
+h1{
+    font-weight: 700;
+}
